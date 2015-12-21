@@ -110,3 +110,7 @@ if __name__ == "__main__":
     make_definition_table(release,join(file_path,"release-classification.csv"),what="definitions",section="Classification")
     
     make_definition_table(release,join(file_path,"release-document.csv"),what="definitions",section="Document")
+
+    make_definition_table(release,join(file_path,"release-amendment.csv"),what="definitions",section="Amendment")
+
+    make_definition_table(release,join(file_path,"release-changes.csv"),what="definitions",section="Amendment/changes")
