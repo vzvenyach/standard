@@ -1,5 +1,7 @@
 # Standard
 
+The Open Contracting Data Standard
+
 ```eval_rst
 .. toctree::
    :maxdepth: 2
