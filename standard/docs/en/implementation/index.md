@@ -1,4 +1,4 @@
-# Standard
+# Implementation
 
 ```eval_rst
 .. toctree::
