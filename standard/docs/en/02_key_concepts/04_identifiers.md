@@ -23,10 +23,10 @@ An OCID is made up of four parts. The first three can generally be set as consta
 
 * A prefix agency (characters 1 - 4) - currently only ‘ocds’ (Open Contracting Data Standard)
 * A - separator
-* A registered prefix (charachters 6 - 11) - a random alphanumeric string given to publishers
-* A publisher namespace (charachters 12 - 13) - for allow publishers to maintain separate series of local identifiers. 
+* A registered prefix (characters 6 - 11) - a random alphanumeric string given to publishers
+* A publisher namespace (characters 12 - 13) - for allow publishers to maintain separate series of local identifiers. 
 * A ‘-’ separator 
-* An internal identifier (charachters 15 and above) - drawn from publishers existing systems
+* An internal identifier (characters 15 and above) - drawn from publishers existing systems
 
 This allows publishers to use an internal identifier from within their own systems, and simple to prepend the prefix and namespace to this when publishing data, making their local identifier into a globally unique identifier. 
 
